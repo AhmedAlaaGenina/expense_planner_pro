@@ -30,7 +30,7 @@ class Chart extends StatelessWidget {
           "amount": totleSum,
         };
       },
-    ); 
+    );
   }
 
   double get totleSpending {
