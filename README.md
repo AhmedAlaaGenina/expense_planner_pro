@@ -1,16 +1,27 @@
-# expense_planner
+# Expense Planner
+## _Flutter App mange Expense_
 
-A new Flutter project.
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-## Getting Started
+Expense Planner App is Aflutter App That help to mange Expense 
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add Expense
+- Edit Expense
+- Digrame to Expense every week
+- Delete Expense
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Plugins
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dillinger is currently extended with the following plugins.
+Instructions on how to use them in your own application are linked below.
+
+| Plugin | README |
+| ------ | ------ |
+
+| intl | [https://pub.dev/packages/intl][PlGd] |
+
+
+   [PlGd]: <https://pub.dev/packages/intl>
+
